@@ -19,7 +19,7 @@ UndetectableInstaBot identifies areas for likes and comments using image recogni
 2. Double-clic on ``install.bat`` and wait installation of requirements. That all 😎
 3. For future uses, you can just run ``run.bat``
 
-**On MAC and LINUX (not tested)
+**On MAC and LINUX (not tested):**
 1. Clone the repository (or download and extract [HERE](https://github.com/Jumitti/UndetectableInstaBot/archive/refs/heads/master.zip)):
     ```bash
     git clone https://github.com/Jumitti/UndetectableInstaBot.git
