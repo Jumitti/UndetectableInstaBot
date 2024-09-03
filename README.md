@@ -11,18 +11,25 @@ UndetectableInstaBot identifies areas for likes and comments using image recogni
 ## Installation
 **Requirement: Python 3.10 and above**
 
-In your terminal:
-1. Clone the repository:
+**On WINDOWS:**
+1. Clone the repository (or download and extract [HERE](https://github.com/Jumitti/UndetectableInstaBot/archive/refs/heads/master.zip)):
     ```bash
     git clone https://github.com/Jumitti/UndetectableInstaBot.git
     ```
-2. Install the required dependencies:
+2. Double-clic on ``install.bat`` and wait installation of requirements. That all 😎
+3. For future uses, you can just run ``run.bat``
+
+**On MAC and LINUX (not tested)
+1. Clone the repository (or download and extract [HERE](https://github.com/Jumitti/UndetectableInstaBot/archive/refs/heads/master.zip)):
+    ```bash
+    git clone https://github.com/Jumitti/UndetectableInstaBot.git
+    ```
+2. Go to the root of the folder and open your terminal. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-3. Run the bot:
-    - On Windows: Double-click `run.bat`
-    - On macOS/Linux: Run `pithon run.py` (Note: Not yet tested on these platforms)
+3. Always with the terminal. Run the bot:
+    - Run `pithon run.py` (Note: Not yet tested on these platforms)
 
 [HERE]() Tutorial video (coming soon)
 
