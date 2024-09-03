@@ -31,7 +31,7 @@ UndetectableInstaBot identifies areas for likes and comments using image recogni
 3. Always with the terminal. Run the bot:
     - Run `pithon run.py` (Note: Not yet tested on these platforms)
 
-[HERE]() Tutorial video (coming soon)
+[HERE](https://youtu.be/2SWTaooFhFg) Tutorial video (coming soon)
 
 ## Usage
 
