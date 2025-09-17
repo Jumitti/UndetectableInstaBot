@@ -1,5 +1,7 @@
 # UndetectableInstaBot
 
+[![Buy me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20Coffee-☕-FFDD00?style=flat-square)](https://www.buymeacoffee.com/Jumitti)
+
 ## Overview
 
 **UndetectableInstaBot** is an Instagram bot designed to seamlessly like and comment on posts by mimicking human interaction. Inspired by a bug in Beeper that flagged it as an Instagram bot, I discovered that most Instagram bot programs are quickly detected and blocked. Thus, I decided to develop a different approach: a bot that's "undetectable because it behaves like a human clicking."
